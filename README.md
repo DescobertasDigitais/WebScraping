@@ -1,5 +1,8 @@
 # Web Scraping - Projetos
-![banner](https://files.catbox.moe/ffxcsh.png)
+
+<p align="center">
+  <img src=https://files.catbox.moe/ffxcsh.png>
+</p>
 
 
 Web scraping é uma técnica de extração de dados da internet que envolve a coleta de informações de páginas da web de forma automatizada. Os dados podem incluir texto, imagens, links, tabelas e muito mais. O processo de web scraping é geralmente realizado por meio de programas de software conhecidos como "scrapers" ou "bots", que percorrem websites, analisam o conteúdo das páginas e extraem as informações desejadas.
