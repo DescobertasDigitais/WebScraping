@@ -1,7 +1,7 @@
 # Web Scraping - Projetos
 
 <p align="center">
-  <img src=https://files.catbox.moe/ffxcsh.png>
+  <img src=https://files.catbox.moe/j7tibw.png>
 </p>
 
 
